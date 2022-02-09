@@ -1,4 +1,4 @@
 # simple card
 
 
-https://dipubdt.github.io/food-ordering-website/
+https://dipubdt.github.io/simple-card-js/
