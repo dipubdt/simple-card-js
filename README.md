@@ -1,1 +1,1 @@
-# simple-card-js
+# simple card
